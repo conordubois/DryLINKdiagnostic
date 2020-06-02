@@ -58,7 +58,7 @@ import android.content.pm.PackageManager;
 import android.provider.Settings;
 import android.net.wifi.WifiManager;
 
-import android.support.v4.app.ActivityCompat;
+import androidx.core.app.ActivityCompat;
 import java.lang.SecurityException;
 
 /**
